@@ -8,7 +8,7 @@ VBOXMANAGE_PATH = r"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe"
 # ---------- Sprachpakete ----------
 LANG = {
     "de": {
-        "title": "IMG → VDI Konverter",
+        "title": "IMG -> VDI Konverter",
         "img": "IMG-Datei:",
         "out": "Output VDI:",
         "browse": "Durchsuchen",
@@ -23,7 +23,7 @@ LANG = {
         "select_img": "IMG-Datei auswählen"
     },
     "en": {
-        "title": "IMG → VDI Converter",
+        "title": "IMG -> VDI Converter",
         "img": "IMG file:",
         "out": "Output VDI:",
         "browse": "Browse",
@@ -38,7 +38,7 @@ LANG = {
         "select_img": "Select IMG file"
     },
     "it": {
-        "title": "Convertitore IMG → VDI",
+        "title": "Convertitore IMG -> VDI",
         "img": "File IMG:",
         "out": "VDI di output:",
         "browse": "Sfoglia",
@@ -53,19 +53,19 @@ LANG = {
         "select_img": "Seleziona file IMG"
     },
     "fr": {
-        "title": "Convertisseur IMG → VDI",
+        "title": "Convertisseur IMG -> VDI",
         "img": "Fichier IMG :",
         "out": "VDI de sortie :",
         "browse": "Parcourir",
         "convert": "Convertir",
-        "ready": "Prêt",
+        "ready": "Pret",
         "running": "Conversion en cours...",
-        "done": "Terminé !",
+        "done": "Termine !",
         "err_img": "Fichier IMG introuvable",
         "err_vbox": "VBoxManage.exe introuvable",
-        "err_conv": "Échec de la conversion",
-        "success": "Conversion réussie",
-        "select_img": "Sélectionner un fichier IMG"
+        "err_conv": "Echec de la conversion",
+        "success": "Conversion reussie",
+        "select_img": "Selectionner un fichier IMG"
     }
 }
 
